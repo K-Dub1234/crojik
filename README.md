@@ -20,9 +20,9 @@
 #### *  GHO: _Asia_ (excluding PRC)
 #### *  EGH: _Europe_
 #### *  KI+: _Everywhere else_
-#### *  XXX: _Dark network(s)_
+#### *  G--: _Dark network(s)_
 ***
-#### Triple-X networks:
+#### G-- networks:
 ##### Networks running illegally, with no central continent.
 ***
 ***
